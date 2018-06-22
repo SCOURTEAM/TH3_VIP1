@@ -26,7 +26,7 @@ VI_P2 حصريا من قناة ⭐️
 
 كود تنصيب السورس 🖇
 
-git clone https://github.com/SCOURTEAM/TH3_VIP1.git;cd TH3_VIP1;chmod +x ins;./ins
+git clone git clone https://github.com/SCOURTEAM/TH3_VIP1 && cd H3_VIP1 && chmod +x install.sh && ./install.sh
 بعد انتهاء عمليه تثبيت السورس 🚸
 
 📊¦ تظهر لك ادخل توكن البوت تقوم بادخال التوكن ثم انتر 
