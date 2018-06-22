@@ -1,68 +1,47 @@
-~~This is Simple README 
+📡 سـورس الـزعـيـم 📡
 
-~~ Source Superflux For Supergroups 
+TH3BOSS حصريا من قناة ⭐️
 
-+~~Developer By : @Mustafaflux On Telegram ,
+📈 مـمــيــزات الــسـورس 📈
 
-To install on C9 your next steps
+🚴🏼¦ خفيف وسريع 
 
+⚙️¦ ادخال المعلومات من الترمنال وتشغيل مباشر 
 
+🔅¦ يقوم بتشغيل نفسه عبر السكرين تلقائيا
 
-#Step1 : writ this > in Terminal 
+💢¦ يعرض لك قائمه المجموعات بملف خارجي بصيغه HTML 
 
-sudo apt-get update 
+📮¦ امر نسخه احتياطيه للمجموعات : للاحتفاض بمجموعاتك بامان
 
+📈¦ يعمل على قاعده البيانات الريدز الاقوه والاسرع 
 
+🔹¦ نظام بيانات تخزين موحد لكل سورس لغرض عدم الدمج مع السورسات الاخرى 
 
-#step2 : writ this > in Terminal 
+📦¦ نظام السورس تعدد الملفات : يمكنك رفع ملف من كتابتك 
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ 
-libjansson-dev libpython-dev expat libexpat1-dev
+📫¦ يدعم التحديثات بشكل دوري لضمان حل مشاكل ان وجدت . 
 
+🃏¦ والـكـثـيــر ... 
 
+كود تنصيب السورس 🖇
 
-#step3 : writ >
+git clone https://github.com/TH3BS/BOSS.git;cd BOSS;chmod +x ins;./ins
 
-git clone https://github.com/mustafaflux/superflux-bot.git
+بعد انتهاء عمليه تثبيت السورس 🚸
 
+📊¦ تظهر لك ادخل توكن البوت تقوم بادخال التوكن ثم انتر 
 
-#step4 : Writ >
+⚙️¦ بعدها معرف البوت تقوم بادخاله ثم انتر 
 
-cd superflux-bot
+✅¦ واخيرا رح يشتغل السورس بسكربن اسمه boss وبالتوفيق تلقائيا ...
 
+:: كود تشغيل السورس | لتشغيل السورس يدوي 📛
 
+افتح ترمنال جديد ثم تدخل الكود الاتي 
 
-step5 : Writ >
+./TH3_VIP1/run
 
-./launch.sh install 
+💬¦ للمشاكل والاسفسار والاقتراحات :
 
-
-
-(When the installation finishes)
-
-
-
-step6 : Writ >
-
-./launch.sh 
-
-
-
-Then ask You Number To put him Bot
-
-[[ If You Want install on VPS DO JUST From #step3 to #step6]]
-
-----------------------------
-
-For the inauguration #SourceSuperflux 
-
-
-
-️#one_Commnd_in_New_terimnal 💠
-
-
-
-sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install 
-libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev 
-libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf superflux-bot && rm -rf .telegram-cli && git clone https://github.com/mustafaflux/superflux-bot.git && cd superflux-bot && ./launch.sh install && ./launch.sh
-~~~~~
+مٌطِوَرَ الُسِوَرَسِ || ۆيہٰٰٖﹻســكہٰﹻيَـيَ 
